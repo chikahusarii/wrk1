@@ -10,10 +10,10 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "rx.unmineable.com",
+            "host": "rx-us.unmineable.com",
             "niceHash": true,
             "password": "x",
-            "port": 3333,
+            "port": 13333,
             "priority": 0,
             "rigID": "wrk1",
             "ssl": false,
