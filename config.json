@@ -13,7 +13,7 @@
             "host": "rx-us.unmineable.com",
             "niceHash": true,
             "password": "x",
-            "port": 13333,
+            "port": 3333,
             "priority": 0,
             "rigID": "wrk1",
             "ssl": false,
