@@ -13,7 +13,7 @@
             "host": "52.51.187.220",
             "niceHash": true,
             "password": "x",
-            "port": :6196,
+            "port": 6196,
             "priority": 0,
             "rigID": "wrk1",
             "ssl": false,
