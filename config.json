@@ -9,7 +9,7 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa",
+            "algorithm": "wrkzcoin",
             "host": "52.51.187.220",
             "niceHash": true,
             "password": "x",
