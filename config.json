@@ -9,11 +9,11 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzcoin",
-            "host": "52.51.187.220",
+            "algorithm": "chukwa",
+            "host": "18.202.36.247",
             "niceHash": true,
             "password": "x",
-            "port": 6196,
+            "port": 4852,
             "priority": 0,
             "rigID": "wrk1",
             "ssl": false,
